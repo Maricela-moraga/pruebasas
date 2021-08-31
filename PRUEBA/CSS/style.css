@@ -1,0 +1,46 @@
+.b-noche {
+  background-image: url("../img/1.jfif");
+  color: yellow;
+  border-radius: 10px;
+  background-position: left top;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.b-mona {
+  background-image: url("../img/2.jpg");
+  color: red;
+  border-radius: 10px;
+  background-position: left top;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.b-grito {
+  background-image: url("../img/3.jpg");
+  color: white;
+  border-radius: 10px;
+  background-position: left top;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.b-relojes {
+  background-image: url("../img/4.jpg");
+  color: red;
+  border-radius: 10px;
+  background-position: left top;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.b-marilyn {
+  background-image: url("../img/5.jpg");
+  color: yellow;
+  border-radius: 10px;
+  background-position: left top;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+/*# sourceMappingURL=style.css.map */

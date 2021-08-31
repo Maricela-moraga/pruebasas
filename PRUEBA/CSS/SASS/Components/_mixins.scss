@@ -1,0 +1,37 @@
+@mixin boton{
+    border-radius: 10px;
+    background-position: left top;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+   
+
+.b-noche{
+    background-image: url("../img/1.jfif");
+    color:yellow;
+    @include boton;
+}
+
+.b-mona{
+    background-image: url("../img/2.jpg");
+    color: red;
+    @include boton ;
+}
+
+.b-grito{
+    background-image: url("../img/3.jpg");
+    color:white;
+    @include boton;
+}
+
+.b-relojes{
+    background-image: url("../img/4.jpg");
+    color: red;
+    @include boton;
+}
+
+.b-marilyn{
+    background-image: url("../img/5.jpg");
+    color: yellow;
+    @include boton;
+}
